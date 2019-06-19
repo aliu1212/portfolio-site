@@ -1,7 +1,9 @@
+import HeaderWrapper from '../layouts/HeaderWrapper'
+
 const Header = () => (
-  <div className="header">
+  <HeaderWrapper>
     Hello!
-  </div>
+  </HeaderWrapper>
 )
 
 export default Header;
