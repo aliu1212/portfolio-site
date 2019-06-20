@@ -1,10 +1,11 @@
 const Header = () => (
   <div>
     <div className="header">
-      Hello!
+      hello! my name is alex and i'm a
     </div>
     <style jsx>{`
         .header{
+          font-family: 'Montserrat', sans-serif;
           display: flex;
           justify-content: center;
           font-size: 18px;
