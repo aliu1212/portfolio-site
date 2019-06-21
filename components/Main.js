@@ -17,7 +17,6 @@ const Main = (props) => (
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
     <div className="container">
-      <br />
       <Header />
       <Hero />
       <Whoami />
