@@ -13,5 +13,10 @@ export default [
     quote: "nails every callback be it audition or node",
     author: "julian yuen",
     relation: "co-worker, hack reactor"
-  }
+  },
+  {
+    quote: "makes great coffee",
+    author: "taylor bantle",
+    relation: "co-worker, hack reactor"
+  },
 ]
