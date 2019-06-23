@@ -13,5 +13,10 @@ export default [
     name: "Lulumelon",
     desc: "Lululemon clone microservice",
     tech: "React, Node.js, Express, MySQL"
-  }
+  },
+  {
+    name: "Type With Friends",
+    desc: "TypeRacer clone game",
+    tech: "React, Node.js, Express, SocketIO, PostgreSQL"
+  },
 ]

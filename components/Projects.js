@@ -9,7 +9,7 @@ const Projects = () => (
     <div className="projects-description">
       some fun things i've built recently - check em out!
     </div>
-    <div>
+    <div className="proj-container">
       { 
         ProjectDetails.map((project, index) => {
           return <OneProject project={ project } key={ index } />
