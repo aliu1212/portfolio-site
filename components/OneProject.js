@@ -2,7 +2,7 @@ const OneProject = (props) => (
   <div className="one-p-card">
     <div className="proj-picture">
       <picture>
-        <img src="https://alexliudev.s3-us-west-1.amazonaws.com/placeholder.jpg" />
+        <img src={ props.project.pict } alt={ props.project.name } />
       </picture>
     </div>
     <div className="proj-text">
