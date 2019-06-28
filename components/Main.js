@@ -3,6 +3,7 @@ import Hero from './Hero';
 import Projects from './Projects';
 import Testimonials from './Testimonials';
 import Whoami from './Whoami';
+import Footer from './Footer';
 import Head from 'next/head';
 
 const Main = (props) => (
@@ -22,6 +23,7 @@ const Main = (props) => (
       <Whoami />
       <Projects />
       <Testimonials />
+      <Footer />
     </div>
   </div>
 );
